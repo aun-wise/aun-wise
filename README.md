@@ -1,0 +1,8 @@
+- 👋 Hi there, I’m Aun.
+- 👀 I'm interested in a lot of things but mainly focusing on:
+  - `webdev`
+  - `automation`
+  - `blockchain`
+- 📫 Let's connect!
+  -  [LinkedIn](https://www.linkedin.com/in/wchr-aun/)
+  -  [Personal GitHub](https://github.com/wchr-aun)
